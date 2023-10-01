@@ -1,7 +1,3 @@
-# This Python 3 environment comes with many helpful analytics libraries installed
-# It is defined by the kaggle/python Docker image: https://github.com/kaggle/docker-python
-# For example, here's several helpful packages to load
-
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 
@@ -43,7 +39,7 @@ class text_analyzer(object):
         else:
             return 0
 
-file_path = '/kaggle/input/customer-feedback-dataset/sentiment-analysis.csv'
+file_path = 'data_set\sentiment-analysis.csv'
 df = pd.read_csv(file_path, header = None) 
 # Combine all rows into a single text string
 text_data = ' '.join(df.iloc[:, 0].astype(str))
