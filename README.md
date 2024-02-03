@@ -1,5 +1,5 @@
 # Python Learning Journey :rocket:
-  <h1>About this repository:heavy_exclamation_mark:</h1>
+  <h1>About this repository:</h1>
   <p>
     Hola GitHub Fam! :octocat: 
     I'm passionate about learning Python. I recently completed the 'Python for Data Science, AI & Development' course. While I haven't embarked on any major projects yet, I've been diligently working on mini practice codes to solidify my understanding of Python concepts.</p>
